@@ -14,7 +14,7 @@ A lightweight and user-friendly To-Do List application that helps users organize
 
 **Tech Stack:**
 
-* HTML, CSS, JavaScript *(or your specific technologies)*
+* PYTHON, HTML, CSS, JavaScript 
 
 **Use Case:**
 Perfect for anyone who wants to manage their daily schedule, reminders, or personal goals in a simple and intuitive way.
